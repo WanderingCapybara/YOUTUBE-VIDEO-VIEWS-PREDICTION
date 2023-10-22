@@ -30,10 +30,10 @@ Here are the versions of the libraries that I used:
 
 ## Table of Contents
 
-1. Data Info
-2. Exploratory Data Analysis (EDA)
-3. Data Preprocessing
-4. Modelling
+1. [Data Info](youtube_video_views_prediction.ipynb#data-info)
+3. Exploratory Data Analysis (EDA)
+4. Data Preprocessing
+5. Modelling
 
 ## Conclusion
 
