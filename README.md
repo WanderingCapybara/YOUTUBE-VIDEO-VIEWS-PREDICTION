@@ -1,5 +1,6 @@
 # Youtube Video Views Prediction
 
+
 ## Project Background
 
 This project holds significant importance among the various endeavors I undertook during my participation in a data science bootcamp. Its primary objective was to develop a robust machine learning model capable of accurately predicting the view count of YouTube videos based on a range of crucial features, including metrics like likes, dislikes, comments, and channel characteristics.
@@ -30,12 +31,6 @@ Here are the versions of the libraries that I used:
 - xgboost 1.7.6
 - optuna 3.3.0
 - shap 0.42.1
-
-## Table of Contents
-1. [Data Info](youtube_video_views_prediction.ipynb#info)
-2. [Exploratory Data Analysis (EDA)](youtube_video_views_prediction.ipynb#eda)
-3. [Data Preprocessing](youtube_video_views_prediction.ipynb#dataprep)
-4. [Modelling](youtube_video_views_prediction.ipynb#modelling)
 
 
 ## Result and Conclusion
