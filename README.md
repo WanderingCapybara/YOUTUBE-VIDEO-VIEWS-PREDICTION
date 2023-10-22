@@ -32,6 +32,12 @@ Here are the versions of the libraries that I used:
 - optuna 3.3.0
 - shap 0.42.1
 
+## Table of Contents
+1. [Data Info](youtube_video_views_prediction.ipynb#info)
+2. [Exploratory Data Analysis (EDA)](youtube_video_views_prediction.ipynb#eda)
+3. [Data Preprocessing](youtube_video_views_prediction.ipynb#dataprep)
+4. [Modelling](youtube_video_views_prediction.ipynb#modelling)
+
 
 ## Result and Conclusion
 
