@@ -6,13 +6,16 @@ This project holds significant importance among the various endeavors I undertoo
 
 From the perspective of a content creator, the outcomes of this project carry substantial weight. They promise to offer invaluable insights into the intricate dynamics that contribute to a video's popularity. These insights extend beyond merely identifying positive influencers; they also shed light on factors that might potentially hinder a video's performance. Armed with this knowledge, content creators have a powerful tool at their disposal to fine-tune their content strategies and make data-driven decisions to amplify their video output.
 
+
 ## Dataset
 
 - **File**: youtube_statistics.xlsx
 
+
 ## IDE
 
 - **Jupyter Notebook**
+
 
 ## Libraries
 
@@ -28,14 +31,8 @@ Here are the versions of the libraries that I used:
 - optuna 3.3.0
 - shap 0.42.1
 
-## Table of Contents
 
-1. [Data Info](youtube_video_views_prediction.ipynb#data-info)
-2. [Exploratory Data Analysis (EDA)](youtube_video_views_prediction.ipynb#eda)
-3. [Data Preprocessing](youtube_video_views_prediction.ipynb#data-preprocessing)
-4. [Modelling](youtube_video_views_prediction.ipynb#modelling)
-
-## Conclusion
+## Result and Conclusion
 
 This machine learning project has provided valuable insights into the factors that influence the popularity and engagement of YouTube videos. Leveraging advanced algorithms and SHAP values interpretation, the project has uncovered the key drivers behind video success on the platform.
 
