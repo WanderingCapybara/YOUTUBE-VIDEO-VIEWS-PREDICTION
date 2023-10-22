@@ -31,9 +31,9 @@ Here are the versions of the libraries that I used:
 ## Table of Contents
 
 1. [Data Info](youtube_video_views_prediction.ipynb#data-info)
-3. [Exploratory Data Analysis (EDA)](youtube_video_views_prediction.ipynb#eda)
-4. [Data Preprocessing](youtube_video_views_prediction.ipynb#data-preprocessing)
-5. [Modelling](youtube_video_views_prediction.ipynb#modelling)
+2. [Exploratory Data Analysis (EDA)](youtube_video_views_prediction.ipynb#eda)
+3. [Data Preprocessing](youtube_video_views_prediction.ipynb#data-preprocessing)
+4. [Modelling](youtube_video_views_prediction.ipynb#modelling)
 
 ## Conclusion
 
